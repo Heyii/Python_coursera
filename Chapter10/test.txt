@@ -1,0 +1,41 @@
+Letter frequency
+From Wikipedia, the free encyclopedia
+  (Redirected from Letter frequencies)
+The frequency of letters in text has been studied for use in cryptanalysis, and frequency analysis in particular, dating back to the Iraqi mathematician Al-Kindi (c. 801–873 AD), who formally developed the method (the ciphers breakable by this technique go back at least to the Caesar cipher invented by Julius Caesar, so this method could have been explored in classical times).
+
+
+California Job Case
+Letter frequency analysis gained additional importance in Europe with the development of movable type in 1450 AD, where one must estimate the amount of type required for each letterform, as evidenced by the variations in letter compartment size in typographer's type cases.
+
+Linguists use letter frequency analysis as a rudimentary technique for language identification, where it's particularly effective as an indication of whether an unknown writing system is alphabetic, syllablic, or ideographic. For example, the Japanese Hiragana syllabary contains 46 distinct characters, which is more than most phonetic alphabets, e.g. the Hawaiian alphabet which has a mere 13 letters, or English which has 26.
+
+No exact letter frequency distribution underlies a given language, since all writers write slightly differently. However, most languages have a characteristic distribution which is strongly apparent in longer texts. Even language changes as extreme as from old English to modern English (regarded as mutually unintelligible) show strong trends in related letter frequencies: over a small sample of Biblical passages, from most frequent to least frequent, enaid sorhm tgþlwu (æ)cfy ðbpxz of old English compares to eotha sinrd luymw fgcbp kvjqxz of modern English, with the most extreme differences concerning letterforms not shared.[1]
+
+Linotype machines for the English language assumed the letter order, from most to least common, to be etaoin shrdlu cmfwyp vbgkjq xz based on the experience and custom of manual compositors. The equivalent for the French language was elaoin sdrétu cmfhyp vbgwqj xz.
+
+Modern International Morse code (generally believed to have been developed by Alfred Vail based on English-language letter frequencies of the 1830s) encodes the most frequent letters with the shortest symbols; arranging the Morse alphabet into groups of letters that require equal amounts of time to transmit, and then sorting these groups in increasing order, yields e it san hurdm wgvlfbk opxcz jyq. Similar ideas are used in modern data-compression techniques such as Huffman coding.
+
+Letter frequency was used by other telegraph systems, such as the Murray Code.
+
+Contents
+1	Introduction
+2	Relative frequencies of letters in the English language
+3	Relative frequencies of the first letters of a word in the English language
+4	Relative frequencies of letters in other languages
+5	See also
+6	References
+7	External links
+Introduction
+Letter frequencies, like word frequencies, tend to vary, both by writer and by subject. One cannot write an essay about x-rays without using frequent Xs, and the essay will have an idiosyncratic letter frequency if the essay is about the frequent use of x-rays to treat zebras in Qatar. Different authors have habits which can be reflected in their use of letters. Hemingway's writing style, for example, is visibly different from Faulkner's. Letter, bigram, trigram, word frequencies, word length, and sentence length can be calculated for specific authors, and used to prove or disprove authorship of texts, even for authors whose styles are not so divergent.
+
+Accurate average letter frequencies can only be gleaned by analyzing a large amount of representative text. With the availability of modern computing and collections of large text corpora, such calculations are easily made. Examples can be drawn from a variety of sources (press reporting, religious texts, scientific texts and general fiction) and there are differences especially for general fiction with the position of 'h' and 'i', with H becoming more common.
+
+Herbert S. Zim, in his classic introductory cryptography text "Codes and Secret Writing", gives the English letter frequency sequence as "ETAON RISHD LFCMU GYPWB VKJXQ Z", the most common letter pairs as "TH HE AN RE ER IN ON AT ND ST ES EN OF TE ED OR TI HI AS TO", and the most common doubled letters as "LL EE SS OO TT FF RR NN PP CC".[2]
+
+Also, to note that different dialects of a language will also affect a letter's frequency. For example, an author in the United States would produce something in which the letter 'z' is more common than an author in the United Kingdom writing on the same topic: words like "analyze", "apologize", and "recognize" contain the letter in American English, whereas the same words are spelled "analyse", "apologise", and "recognise" in British English. This would highly affect the frequency of the letter 'z' as it is a rarely used letter elsewhere in the English language.[3]
+
+The "top twelve" letters constitute about 80% of the total usage. The "top eight" letters constitute about 65% of the total usage. Letter frequency as a function of rank can be fitted well by several rank functions, with the two-parameter Cocho/Beta rank function being the best.[4] Another rank function with no adjustable free parameter also fits the letter frequency distribution reasonably well[5] (the same function has been used to fit the amino acid frequency in protein sequences.[6]) A spy using the VIC cipher or some other cipher based on a straddling checkerboard typically uses a mnemonic such as "a sin to err" (dropping the second "r")[7][8] or "at one sir"[9] to remember the top eight characters.
+
+The use of letter frequencies and frequency analysis plays a fundamental role in cryptograms and several word puzzle games, including Hangman, Scrabble and the television game show Wheel of Fortune. One of the earliest descriptions in classical literature of applying the knowledge of English letter frequency to solving a cryptogram is found in E.A. Poe's famous story The Gold-Bug, where the method is successfully applied to decipher a message instructing on the whereabouts of a treasure hidden by Captain Kidd.[10]
+
+Letter frequencies had a strong effect on the design of some keyboard layouts. The most frequent letters are on the bottom row of the Blickensderfer typewriter, and the home row of the Dvorak Simplified Keyboard.
